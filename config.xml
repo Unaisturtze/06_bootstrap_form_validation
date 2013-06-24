@@ -6,10 +6,10 @@
         id        = "com.skootik.acelerometer"
         version   = "1.0.0">
 
-    <name>Appzheimer</name>
+    <name>Validacion bootstrap</name>
 
     <description>
-        Aplicacion Appzheimer.
+        Validacion bootstrap.
     </description>
 
     <author href="http://skootik.com" email="info@skootik.com">
